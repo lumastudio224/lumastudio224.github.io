@@ -11,3 +11,5 @@ Place TikTok’s exact verification filename/content in this root when supplied 
 Do not put credentials or OAuth results in this repository.
 
 Changelog: 2026-10-15 initial landing, privacy, terms, local-only OAuth callback, and GitHub Pages deployment.
+
+- 2026-10-15: Updated privacy policy wording to confirm GitHub Pages hosts this site.
